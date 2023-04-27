@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRecipeApp_POE", "MyRecipeApp_POE.csproj", "{E16DE0D3-0E5D-4B9B-A851-21D45F3D560E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyRecipeApp_POE", "MyRecipeApp_POE.csproj", "{E16DE0D3-0E5D-4B9B-A851-21D45F3D560E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
